@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'shanbaySpider.spiders'
 MYSQL_HOST = '127.0.0.1'
 MYSQL_DBNAME = 'shanbay'         #数据库名字，请修改
 MYSQL_USER = 'root'             #数据库账号，请修改 
-MYSQL_PASSWD = 'wtc19940712'         #数据库密码，请修改
+MYSQL_PASSWD = '*******'         #数据库密码，请修改
 CHARSET='utf8'
 
 MYSQL_PORT = 3306
